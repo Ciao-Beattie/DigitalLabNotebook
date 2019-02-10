@@ -1,11 +1,5 @@
 # DigitalLabNotebook
 
-# This is a Header
-This is not
+# We're gonna link some things because thats kinda the point
 
-## Little Header
-### Very Little Header
-A line
----
-A different line
-_______
+[Makin' Tables] (tables.md)
